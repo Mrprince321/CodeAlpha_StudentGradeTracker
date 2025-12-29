@@ -31,3 +31,36 @@ It allows users to input and manage student grades and generates a summary repor
 ---
 
 ## 📂 Project Structure
+com.codealpha.student
+│
+├── Student.java
+└── StudentGradeTracker.java
+
+---
+
+## ▶️ How to Run
+1. Open the project in Eclipse or any Java IDE
+2. Run `StudentGradeTracker.java`
+3. Follow the menu options in the console
+
+---
+
+## 📊 Sample Output
+- Add student details
+- View summary report showing average, highest, and lowest marks
+
+---
+
+## ✅ Internship Task Compliance
+✔ Grade input and management  
+✔ Statistical calculations  
+✔ Use of ArrayList  
+✔ Console-based application  
+✔ OOP principles applied  
+
+---
+
+## 👤 Author
+**Bathu Kushwanth Kumar**  
+Java Programming Intern
+
